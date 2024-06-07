@@ -1,6 +1,7 @@
 
 # Ecommerce Website Project in Angular JS with NodeJS and MySQL
 
+## install NodeJS version Node v16.14.2 (LTS)
 Then cd into both directories and run npm install
 
 ```
